@@ -5,7 +5,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 Repositorio para armazenar sobre git e Github sobre versionamento de código com Git e Github da [Digital Inovation one](https://web.dio.me/track/bradesco-java-qa-developer/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1).
 
-## 📖 Documentação ~
+## 📖 Documentação 
 * [Git](https://git-scm.com/install/)
 * [Git Hub](https://github.com)
 ## 🖥 Resumos das Aulas
