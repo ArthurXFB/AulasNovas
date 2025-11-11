@@ -13,6 +13,7 @@ Repositorio para armazenar sobre git e Github sobre versionamento de código com
 | Aulas | Resumos |
 |-------|---------|
 | Gravando Alterações no Repositorio Local | [Resumos](https://web.dio.me/track/bradesco-java-qa-developer/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1)|
+| Gravando Alterações no Repositorio Local | [Resumos]
 
 ```
 Git Initn 
